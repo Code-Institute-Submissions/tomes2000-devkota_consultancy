@@ -1,5 +1,14 @@
 
+
 /* Navbar */
+
+div.container-fluid,
+.bg-light,
+ul.dropdown-menu.show,
+div.modal-header,
+div.modal-footer {
+    background-color: #ffffff86 !important;
+}
 
 .navbar-brand {
     font-size: 1.75rem;
