@@ -1,6 +1,27 @@
-
 /* Editing the Navbar */
 body {
-    font-family: 
+    font-family: "Open sans", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: gray;
+}
+
+a {
+    color: 	#741ebb
+}
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Roboto", sans-serif
+}
+
+#header {
+    background: #000
+    padding: 15px;   
+}
+
+#header .top_image {
+    font-size: 1.75rem
+    margin: 0;
 }
