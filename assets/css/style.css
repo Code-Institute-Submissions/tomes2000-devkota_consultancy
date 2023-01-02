@@ -55,3 +55,14 @@ html, body {
 #menu a:hover {
     border-bottom: 1px solid #777777;
 }
+
+/* Footer */
+
+footer {
+    width: 100%;
+    background-color: silver;
+    padding: 1%;
+    color: black;
+    bottom: 0;
+    max-width:100%;
+}
