@@ -31,3 +31,9 @@ html, body {
     color:#555555;
     text-align: center;
 }
+
+#menu{
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
