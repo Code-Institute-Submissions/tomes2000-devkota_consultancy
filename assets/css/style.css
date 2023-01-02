@@ -73,6 +73,7 @@ footer {
     position: relative;
     width: 100%;
     background-size: cover;
+    font-family: 'Montserrat', sans-serif;
 }
 .landing-text {
     display: table-cell;
