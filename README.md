@@ -80,4 +80,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
   * Contact form - The contact form allows the user to book an appointment by submitting their contact details in; the user can also add how they heard about the company. Furthermore, there is a section which allows the user to add input into the form to convey messages to the design team. This allows the design team to get a sense of what services the user requires and gives them a chance to prepare documents before the appointment with the client. When contact is selected on the navigation bar, this section will appear.
   
    ![Contact](documents/contact-form.png)
-
+  
+  * Footer - The footer contains the company's contact phone, email, opening dates, opening times and social media links. All social media links open in a new tab.
+  
+   ![Footer](documents/footer.png)
