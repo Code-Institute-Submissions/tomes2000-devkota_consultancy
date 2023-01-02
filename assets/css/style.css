@@ -77,3 +77,7 @@ footer {
     color: #d5d5d5;
     text-decoration: none;
 }
+
+/* Hero image and text */
+#home {
+    background: url(assets/images/plant-design.jpg) no-repeat center center fixed;
