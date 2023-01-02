@@ -120,3 +120,8 @@ footer {
     position: relative;
 }
 
+/* COVID Banner */
+
+p.text-center.mt-5.mb-5 {
+    background-color: #e0faed;
+}
