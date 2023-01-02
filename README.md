@@ -19,4 +19,4 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
     6. I want to be able to socially connect with the company and keep up-to-date with their news and stories.
    
    * ## Target user
-   The target users for this kind of service are companies who require help with small to medium sized projects within the UK. They should require high quality solutions with competitve market rates, specialising in the FEED (Front End Engineering Design) aspect of chemical engineering.
+   The target user for this kind of service is a company who requires help with small to medium sized projects within the UK. They should require high quality solutions, as we are a high quality business, with competitve market rates, specialising in the FEED (Front End Engineering Design) aspect of chemical engineering.
