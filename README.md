@@ -47,6 +47,8 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
    
     To keep up with the professional and simple look of my website, my logo is very simple and just has the colour black with a basic engineering image to the left of     the text. 
    
+* ## Implemented Features 
+  * Navigation bar - This is at the top of the page, consisting of the About, Services and Contact section. When any of these sections are hovered over, a 1px solid #777777 line is shown to showcase to the user that they're about to navigate towards that section of the page. The background of the navbar is white which works well with the #555555 colour of the logo. The navbar is fully functional at smaller screen sizes for mobile users as well.
    
 
   
