@@ -7,23 +7,17 @@
 .padding {
     padding: 80px 0;
 }
-
 .padding img {
     width: 100%;
 }
-
 p {
     font-size: 1.5rem;
 }
-
-
 html, body {
     height: 100%;
     width: 100%;
 }
-
 /* Navbar */
-
 #logo{
     float: left; 
     font-size: 280%;
@@ -32,36 +26,26 @@ html, body {
     color:#555555;
     text-align: center;
 }
- 
 #menu{
     font-size: 110%;
     list-style-type: none;
     letter-spacing: 4px;
 }
-
-
 #logo, #menu{
     line-height: 75px;
 }
-
 #menu li {
     float: right;
     margin-right: 30px;
 }
-
 #menu a {
     text-decoration: none;
     color: inherit;
 }
-
 #menu a:hover {
     border-bottom: 1px solid #777777;
 }
-
-
-
 /* Footer */
-
 footer {
     width: 100%;
     background-color: silver;
@@ -70,7 +54,6 @@ footer {
     bottom: 0;
     max-width:100%;
 }
-
 .fa {
     padding: 10px;
     font-size: 60px;
@@ -80,74 +63,57 @@ footer {
     color: #d5d5d5;
     text-decoration: none;
 }
-
-
 /* Hero image and text */
 #home {
-    background: url('../images/plant-design.jpg') no-repeat center center scroll;
+    background: url(../images/plant-design.jpg) no-repeat center center scroll;
     display: table;
     height: 100%;
     position: relative;
     width: 100%;
     background-size: cover;
 }
-
 .landing-text {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
     color: white;
 }
-
 .landing-text h1 {
     font-size: 700%;
     font-weight: 700;
 }
-
 .landing-text h3 {
     font-size: 500%;
     font-weight: 700;
 }
-
 #home a {
     font-size: 400%;
     color: white;
 }
-
 /* Fixed image*/
 #fixed {
-    background: url('../images/fixed.jpg') no-repeat center center scroll;
+    background: url(../images/fixed.jpg) no-repeat center center scroll;
     display: table;
     height: 90%;
     width: 100%;
     background-size: cover;
     position: relative;
 }
-
-
 /* COVID Banner */
 
 p.text-center.mt-5.mb-5 {
     background-color: #e0faed;
 }
-
-
 /* Services*/
 .container ul {
     font-size: 1.3rem;
 }
-
-
 /* Form*/
-
 .container form {
     padding: 3%;
 }
-
 /*Making the design responsive to mobile devices */
-
 @media (max-width: 768px) {
-    /* Making the landing text smaller so it fits on mobile screens */
     .landing-text h1 {
         font-size: 200%;
     }
@@ -158,13 +124,8 @@ p.text-center.mt-5.mb-5 {
         font-size: 150%;
     }
     
-    /* Decreasing size of the font-awesome icons so they take up less real estate on footer section when the screen width is smaller */
-    
     .fa {
         font-size: 30px;
         padding: 10px;
-    }
-    
-   
+    }  
 }
-
