@@ -35,7 +35,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
   * ## Typography
   In order to make the logo bold, I went with Franklin Gothic Medium, For the landing text, I wanted to make it look opulent therefore I went with the Italiana font. The bold logo at the top and the finely-put-together landing text compliment each other very well. I kept the body the default font as it ties in well with my idea of a simple website.
   * ## Colour Palette
- Using the [Favicon.io](https://favicon.io/) website to generate a colour palette, I decided to use a simple theme throughout my website so that I didn't overload the user's visual senses. I decided to slightly change the colour tones of some of the colour palette suggestions so that they blended better together. I used  the colour palette more as a guide to further ideas.
+ Using the [Coolors](https://coolors.co/) website to generate a colour palette, I decided to use a simple theme throughout my website so that I didn't overload the user's visual senses. I decided to slightly change the colour tones of some of the colour palette suggestions so that they blended better together. I used  the colour palette more as a guide to further ideas.
   * ## Favicon 
  Using [Favicon.io](https://favicon.io/) to generate a favicon image for my website, I managed to give it a simple feel that matches the fung shui and vibe of the whole website. Using the same colours I used in my logo, it really blends everything very well.
  
