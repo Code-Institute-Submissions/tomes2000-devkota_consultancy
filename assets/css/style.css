@@ -94,3 +94,8 @@ footer {
     vertical-align: middle;
     color: white;
 }
+
+.landing-text h1 {
+    font-size: 700%;
+    font-weight: 700px;
+}
