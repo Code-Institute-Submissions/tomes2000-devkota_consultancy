@@ -59,6 +59,6 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
   
   * About us - Containing 2 paragraph sections and 2 image sections, this part of the website introduces the user to the company. The two images featured are of chemical engineers and a chemical engineering plant unit item. Both images are relevant to the text and help the user in gaining a deeper understanding of the company. 
    
-   !About](documents/about-us.png)
+  ![About](documents/about-us.png)
 
   
