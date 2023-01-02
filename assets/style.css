@@ -37,3 +37,7 @@ html, body {
     list-style-type: none;
     letter-spacing: 4px;
 }
+
+#logo, #menu{
+    line-height: 75px;
+}
