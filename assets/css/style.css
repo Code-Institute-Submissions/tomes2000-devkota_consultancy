@@ -104,3 +104,8 @@ footer {
     font-size: 500%;
     font-weight: 700px;
 }
+
+#home a {
+    font-size: 400%;
+    color: white;
+}
