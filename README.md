@@ -22,3 +22,9 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
    
    * ## Target user
    The target user for this kind of service is a company who requires help with small to medium sized projects within the UK. They should require high quality solutions, as we are a high quality business, with competitve market rates, specialising in the FEED (Front End Engineering Design) aspect of chemical engineering.
+   
+* ## Site Owner Goals
+1. Increase customer interaction with the comapny.
+2. Create brand recognition.
+3. Increase amount of user call/emails to the the company.
+4. Increase sales revenue for services.
