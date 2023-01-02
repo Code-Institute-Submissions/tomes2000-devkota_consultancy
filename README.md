@@ -61,11 +61,11 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
    
   ![About](documents/about-us.png)
   
-  * Further About - The further about section consists of an image with text below it. The reason I've added a further about section is to re-inforce trust with the client by showcasing that this comapny has a many years experience within the industry and therefore can be trusted. In addition to this, by including the company's quality guarantee, it showcases to the client that we take quality VERY seriously. The image is meant to represent a fictional person, partaking in a fictional project for our fictional consultancy.
+  * Further about - The further about section consists of an image with text below it. The reason I've added a further about section is to re-inforce trust with the client by showcasing that this comapny has a many years experience within the industry and therefore can be trusted. In addition to this, by including the company's quality guarantee, it showcases to the client that we take quality VERY seriously. The image is meant to represent a fictional person, partaking in a fictional project for our fictional consultancy.
 
   ![Furtherabout](documents/further-about.png)
   
-  * Spacer Image - The purpose of the spacer image is to create a break between the about section and the services section. In additon to this, the image is also meant to make the website more visually appealing so that it's not too simple, thus helping it to not be perceived as boring.
+  * Spacer image - The purpose of the spacer image is to create a break between the about section and the services section. In additon to this, the image is also meant to make the website more visually appealing so that it's not too simple, thus helping it to not be perceived as boring.
   
   ![Spacerimage](documents/spacer-image.png)
   
@@ -76,3 +76,8 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
   * Services - The services section consists of the comapnies logo with text outlining what services are on offer. Since chemical engineering services vary with the type of project, an exact pricing list isn't used. Instead a pricing report is created by booking an appointment with the design team.
   
    ![Services](documents/services.png)
+   
+  * Contact form - The contact form allows the user to book an appointment by submitting their contact details in; the user can also add how they heard about the company. Furthermore, there is a section which allows the user to add input into the form to convey messages to the design team. This allows the design team to get a sense of what services the user requires and gives them a chance to prepare documents before the appointment with the client.
+  
+   ![Contact](documents/contact-form.png)
+
