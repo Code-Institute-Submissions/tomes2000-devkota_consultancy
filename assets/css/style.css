@@ -1,4 +1,4 @@
-* Global */
+/* Global */
 * {
     margin: 0;
     padding:0;
@@ -16,6 +16,7 @@ p {
     font-size: 1.5rem;
 }
 
+
 html, body {
     height: 100%;
     width: 100%;
@@ -31,12 +32,13 @@ html, body {
     color:#555555;
     text-align: center;
 }
-
+ 
 #menu{
     font-size: 110%;
     list-style-type: none;
     letter-spacing: 4px;
 }
+
 
 #logo, #menu{
     line-height: 75px;
@@ -56,6 +58,8 @@ html, body {
     border-bottom: 1px solid #777777;
 }
 
+
+
 /* Footer */
 
 footer {
@@ -72,11 +76,11 @@ footer {
     font-size: 60px;
     color: #fff;
 }
-
 .fa:hover {
     color: #d5d5d5;
     text-decoration: none;
 }
+
 
 /* Hero image and text */
 #home {
@@ -120,16 +124,19 @@ footer {
     position: relative;
 }
 
+
 /* COVID Banner */
 
 p.text-center.mt-5.mb-5 {
     background-color: #e0faed;
 }
 
+
 /* Services*/
 .container ul {
     font-size: 1.3rem;
 }
+
 
 /* Form*/
 
@@ -157,3 +164,4 @@ p.text-center.mt-5.mb-5 {
     
    
 }
+
