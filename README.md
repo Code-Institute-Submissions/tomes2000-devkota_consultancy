@@ -28,3 +28,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
 2. Create brand recognition.
 3. Increase amount of user call/emails to the the company.
 4. Increase sales revenue for services.
+
+* ## Design
+  * ## Wireframes
+  To access the wireframe images, click here.
