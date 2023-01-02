@@ -65,7 +65,7 @@ footer {
 }
 /* Hero image and text */
 #home {
-    background: url(../images/plant-design.jpg) no-repeat center center scroll;
+    background: url('../images/plant-design.jpg') no-repeat center center scroll;
     display: table;
     height: 100%;
     position: relative;
@@ -92,7 +92,7 @@ footer {
 }
 /* Fixed image*/
 #fixed {
-    background: url(../images/fixed.jpg) no-repeat center center scroll;
+    background: url('../images/fixed.jpg') no-repeat center center scroll;
     display: table;
     height: 90%;
     width: 100%;
