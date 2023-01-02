@@ -110,7 +110,13 @@ footer {
     color: white;
 }
 
-* Fixed image*/
+/* Fixed image*/
 #fixed {
     background: url(assets/images/fixed.jpg) no-repeat center center fixed;
+    display: table;
+    height: 90%;
+    width: 100%;
+    background-size: cover;
+    position: relative;
 }
+
