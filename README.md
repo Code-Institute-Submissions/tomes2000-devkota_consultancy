@@ -68,3 +68,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
   * Spacer Image - The purpose of the spacer image is to create a break between the about section and the services section. In additon to this, the image is also meant to make the website more visually appealing so that it's not too simple, thus helping it to not be perceived as boring.
   
   ![Spacerimage](documents/spacer-image.png)
+  
+  * COVID banner - In light of the new COVID-19 variant recently, I have added the banner in order to showcase to clients that we care about them, but also to bring the website to life to give the vibe that it's real.
+
+![COVID](documents/COVID-banner.png)
