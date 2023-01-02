@@ -10,7 +10,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
 
 * ## User Experience
   * ## User Stories
-  * As a user: 
+    As a user: 
     1. I want to be able to easily navigate the website.
     2. I want to be able to find out if this company has conducted work in the past.
     3. I want to see what services are on offer.
