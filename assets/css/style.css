@@ -147,6 +147,7 @@ p.text-center.mt-5.mb-5 {
 /*Making the design responsive to mobile devices */
 
 @media (max-width: 768px) {
+    /* Making the landing text smaller so it fits on mobile screens */
     .landing-text h1 {
         font-size: 200%;
     }
@@ -156,6 +157,8 @@ p.text-center.mt-5.mb-5 {
     #home a {
         font-size: 150%;
     }
+    
+    /* Decreasing size of the font-awesome icons so they take up less real estate on footer section when the screen width is smaller */
     
     .fa {
         font-size: 30px;
