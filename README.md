@@ -45,5 +45,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
    
    To keep up with the professional and simple look of my website, my logo is very simple and just has the colour black with a basic engineering image to the left of the text. 
    
+   
+   
 
   
