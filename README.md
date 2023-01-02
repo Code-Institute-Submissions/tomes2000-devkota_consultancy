@@ -56,6 +56,8 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
   * Landing page - Containing the hero image, which covers the majority of the screen to grab the user's attention, and hero text which prompts the user to explore further into the website. The text has the company's name, a summary of what the company does and an option to invite the user to explore the website with a "click here to get started!" section.
 
   ![Landingpage](documents/landing-page.png)
+  
+  * About us - Containing 2 paragraph sections and 2 image sections, this part of the website introduces the user to the company 
    
 
   
