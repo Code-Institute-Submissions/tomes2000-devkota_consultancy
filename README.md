@@ -32,3 +32,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
 * ## Design
   * ## Wireframes
   To access the wireframe images, click here.
+  * ## Typography
+  In order to make the logo bold, I went with Franklin Gothic Medium, For the landing text, I wanted to make it look opulent therefore I went with the Italiana font. The bold logo at the top and the finely-put-together landing text compliment each other very well.
+ 
+  
