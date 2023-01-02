@@ -125,3 +125,9 @@ footer {
 p.text-center.mt-5.mb-5 {
     background-color: #e0faed;
 }
+
+/* Services*/
+.container ul {
+    font-size: 1.3rem;
+}
+
