@@ -34,5 +34,6 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
   To access the wireframe images, click here.
   * ## Typography
   In order to make the logo bold, I went with Franklin Gothic Medium, For the landing text, I wanted to make it look opulent therefore I went with the Italiana font. The bold logo at the top and the finely-put-together landing text compliment each other very well.
- 
+ * ## Colour Palette
+ Using the [Favicon.io](https://favicon.io/) website to generate a colour palette, I decided to use a simple theme throughout my website so that I didn't overload the user's visual senses. 
   
