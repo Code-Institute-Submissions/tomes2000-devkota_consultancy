@@ -56,8 +56,8 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
     * ## Typography
       I wanted an elegant looking font to bolster the feeling of luxury throughout the site. I liked the contrast between the font for the headings which is Fairplay Display, and the font for the rest of the website.
     * ## Colour Palette
- Using the [Favicon.io](https://favicon.io/) website to generate a colour palette, I decided to use a simple theme throughout my website so that I didn't overload the user's visual senses. I decided to slightly change the colour tones of some of the colour palette suggestions so that they blended better together. I used  the colour palette more as a guide to further ideas.
-   * ## Favicon 
+       Using the [Favicon.io](https://favicon.io/) website to generate a colour palette, I decided to use a simple theme throughout my website so that I didn't overload the user's visual senses. I decided to slightly change the colour tones of some of the colour palette suggestions so that they blended better together. I used  the colour palette more as a guide to further ideas.
+    * ## Favicon 
  Using [Favicon.io](https://favicon.io/) to generate a favicon image for my website, I managed to give it a simple feel that matches the fung shui and vibe of the whole website. Using the same colours I used in my logo, it really blends everything very well.
    * ## Imagery
  All imagery was sourced from the website, [Pexels.](https://www.pexels.com/)
