@@ -50,5 +50,10 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
 * ## Implemented Features 
   * Navigation bar - This is at the top of the page, consisting of the About, Services and Contact section. When any of these sections are hovered over, a 1px solid #777777 line is shown to showcase to the user that they're about to navigate towards that section of the page. The background of the navbar is white which works well with the #555555 colour of the logo. The navbar is fully functional at smaller screen sizes for mobile users as well.
    
+   ![Navbar](documents/navbar.png)
+   
+   
+  * Landing page - Containing the hero image, which covers the majority of the screen to grab the user's attention, and hero text which prompts the user to explore further into the website. The text has the company's name, a summary of what the company does and an option to invite the user to explore the website with a "click here to get started!" section.
+   
 
   
