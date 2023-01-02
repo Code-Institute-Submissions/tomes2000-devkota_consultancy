@@ -60,7 +60,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
     * ## Imagery
     All imagery was sourced from the website, [Pexels.](https://www.pexels.com/)
    
-    The images I've chosen in my website give a nice professional look, whilst also keeping the website nice and simple. All images that are next to accompanying text     have a connection to them, which aids the user in better understanding the purpose of the website. The simple look of the website works well with the massive hero     image in the landing section that is meant to attract the users attention.
+    The images I've chosen in my website give a nice and professional look, whilst also keeping the website nice and simple. All images that are next to accompanying text     have a connection to them, which aids the user in better understanding the purpose of the website. The simple look of the website works well with the massive hero     image in the landing section that is meant to attract the users attention.
     * ## Logo
     The Devkota Consultancy logo was generated from the website  [my free logo maker.](https://myfreelogomaker.com/onboarding)
    
