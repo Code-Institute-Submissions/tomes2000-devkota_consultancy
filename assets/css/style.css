@@ -136,3 +136,24 @@ p.text-center.mt-5.mb-5 {
 .container form {
     padding: 3%;
 }
+
+/*Making the design responsive to mobile devices */
+
+@media (max-width: 768px) {
+    .landing-text h1 {
+        font-size: 200%;
+    }
+    .landing-text h3 {
+        font-size: 150%;
+    }
+    #home a {
+        font-size: 150%;
+    }
+    
+    .fa {
+        font-size: 30px;
+        padding: 10px;
+    }
+    
+   
+}
