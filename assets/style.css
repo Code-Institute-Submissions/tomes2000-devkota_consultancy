@@ -41,3 +41,8 @@ html, body {
 #logo, #menu{
     line-height: 75px;
 }
+
+#menu li {
+    float: right;
+    margin-right: 30px;
+}
