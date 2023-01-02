@@ -9,3 +9,11 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
 # UX and UI
 
 * ## User Experience
+  * ## User Stories
+  * As a user: 
+    1. I want to be able to easily navigate the website.
+    2. I want to be able to find out if this company has conducted work in the past.
+    3. I want to see what services are on offer.
+    4. I want to know how I can be able to find out the cost of said services.
+    5. I want a way in which I can contact the company in order to discuss the services in further detail.
+    6. I want to be able to socially connect with the company and keep up-to-date with their news and stories.
