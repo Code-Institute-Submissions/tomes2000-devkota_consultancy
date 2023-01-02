@@ -109,3 +109,8 @@ footer {
     font-size: 400%;
     color: white;
 }
+
+* Fixed image*/
+#fixed {
+    background: url(assets/images/fixed.jpg) no-repeat center center fixed;
+}
