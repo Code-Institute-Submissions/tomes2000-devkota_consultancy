@@ -131,3 +131,8 @@ p.text-center.mt-5.mb-5 {
     font-size: 1.3rem;
 }
 
+/* Form*/
+
+.container form {
+    padding: 3%;
+}
