@@ -71,4 +71,8 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
   
   * COVID banner - In light of the new COVID-19 variant recently, I have added the banner in order to showcase to clients that we care about them, but also to bring the website to life to give the vibe that it's real.
 
-![COVID](documents/COVID-banner.png)
+   ![COVID](documents/COVID-banner.png)
+   
+  * Services - The services section consists of the comapnies logo with text outlining what services are on offer. Since chemical engineering services vary with the type of project, an exact pricing list isn't used. Instead a pricing report is created by booking an appointment with the design team.
+  
+   ![Services](documents/services.png)
