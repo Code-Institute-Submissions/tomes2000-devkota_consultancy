@@ -7,6 +7,8 @@ The aim of the website was to create a chemical engineering design consutlancy c
 To visit the website, [click here.](https://tomes2000.github.io/devkota_consultancy/)
 
 # UX and UI
+* ## Project Information
+  Having completed a BEng in Chemical Engineering that focuses on the FEED (Front End Engineering Design) aspect of chemical engineering, I have a good understanding on this subject matter and what services are required in order to set up a chemical engineering plant within the UK.
 
 * ## User Experience
   * ## User Stories
