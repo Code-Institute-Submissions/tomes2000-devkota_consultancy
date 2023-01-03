@@ -157,22 +157,22 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
     6. I want to be able to socially connect with the company and keep up-to-date with their news and stories.
        * A user can socially connect with the company with any of the social media links in the footer section.
        
-* ## Deployment
+* # Deployment
   I created this project using VS Code as I found it easier than using Gitpod. The site was deployed to GitHub pages. In order to deploy to GitHub pages:
   1. On the GitHub repository, select the "Settings" option.
   2. On the left sidebar, select the "Pages" tab option.
   3. Under the GitHub pages, use the branch drop-down menu and select the "deploy from a branch" option.
   4. Select the save option and then the page will refresh, showing the link to the live site.
 * ## Forking a GitHub Repository
-  1. Login to GitHub.
+   1. Login to GitHub.
   2. Locate your desired repository.
   3. Locate the fork option in the top-right hand corner of the repository page.    
   4. You will be asked where you want to fork it to.
 * ## Cloning a Repository Using The Command Line
-   Taken directly from the GitHub website.
-   1. On GitHub.com, navigate to the main page of the repository.
-   2. Above the list of files, click download code.
-   3. Copy the URL for the repository.
+  Taken directly from the GitHub website.
+  1. On GitHub.com, navigate to the main page of the repository.
+  2. Above the list of files, click download code.
+  3. Copy the URL for the repository.
     To clone the repository using HTTPS, under "HTTPS", click the clipboard image.
     To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click the clipboard image.
     To clone a repository using GitHub CLI, click GitHub CLI, then click the clipboard image.
