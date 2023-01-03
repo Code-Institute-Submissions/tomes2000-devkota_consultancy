@@ -178,14 +178,14 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
     To clone a repository using GitHub CLI, click GitHub CLI, then click the clipboard image.
     4. Open Git Bash (or whatever other terminal you use).
     5. Change the current working directory to the location where you want the cloned directory.
-    6. Type ```git clone```, and then paste the URL you copied earlier. ```test to see if this works```
+    6. Type ```git clone```, and then paste the URL you copied earlier. 
 
-          
+          ```
            $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-          
+          ```
      7. Press Enter to create your local clone.
      
-     
+     ```
          $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
          
          \> Cloning into \`Spoon-Knife`\...
@@ -197,3 +197,5 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
          \> remove: Total 10 (delta 1), reused 10 (delta 1)
 
          \> Unpacking objects: 100% (10/10), done.
+         
+      ```
