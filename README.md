@@ -207,7 +207,9 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
       * Credit to [W3 Schools](https://www.w3schools.com/bootstrap5/bootstrap_get_started.php) for their fantastic guide on effectively using Bootstrap 5.
       * The navigation bar was adapted from the Code Institute's Love Running project.
       * Most of the contact icons used in the footer were taken from Font Awesome.
+   * ## Imagery 
+      * All imagery is taken from [Pexels](https://www.pexels.com/)
    * ## Acknowledgements
       * A big thank you to Guido Cecilio for his motivation as my mentor.
-      * 
+      * Credit to Maggie Walsh for her README.md which I've used as guide for mine.
         
