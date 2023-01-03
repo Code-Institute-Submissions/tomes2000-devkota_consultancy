@@ -203,5 +203,11 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
 
 * ## Credits
    * ## Code
-      * Bootstrap was used for the majority of this project
+      * Bootstrap was used for the majority of this project to maiximise responsivity.
+      * Credit to [W3 Schools](https://www.w3schools.com/bootstrap5/bootstrap_get_started.php) for their fantastic guide on effectively using Bootstrap 5.
+      * The navigation bar was adapted from the Code Institute's Love Running project.
+      * Most of the contact icons used in the footer were taken from Font Awesome.
+   * ## Acknowledgements
+      * A big thank you to Guido Cecilio for his motivation as my mentor.
+      * 
         
