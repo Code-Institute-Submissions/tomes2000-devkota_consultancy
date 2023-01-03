@@ -202,6 +202,6 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
 
 
 * ## Credits
-      * ## Code
-        * Bootstrap was used for the majority of this project
+   * ## Code
+      * Bootstrap was used for the majority of this project
         
