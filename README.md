@@ -133,7 +133,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
       
       ![divtag](documents/div-tag.png)
       
-      * Using a bootstrap style hamburger navigation bar, I noticed that it was not displaying correctly on my webpage. This was due to the fact that the hero image was in the background and was covering the drop-down menu options. This made navigation difficult for the user. In order to resole the issue, I opted to go with the same responsive style navigation bar that was used in Code Institute's "Love Running" project.
+      * Using a bootstrap style hamburger navigation bar, I noticed that it was not displaying correctly on my webpage. This was due to the fact that the hero image was in the background and was covering the drop-down menu options. This made navigation difficult for the user. In order to resovle the issue, I opted to go with the same responsive style navigation bar that was used in Code Institute's "Love Running" project. As you can see in the image, even though the hamburger option is toggled on, the drop-down menu cannot be seen.
       
       ![bootstrapnavbar](documents/bootstrap-navbar.png)
       
