@@ -90,11 +90,11 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
 
   ![Landingpage](documents/landing-page.png)
   
-  * About us - Containing 2 paragraph sections and 2 image sections, this part of the website introduces the user to the company. The two images featured are of chemical engineers and a chemical engineering plant unit item. Both images are relevant to the text and help the user in gaining a deeper understanding of the company. When about is selected on the navigation bar, this section will appear. 
+  * About us - Containing 2 paragraph sections and 2 image sections, this part of the website introduces the user to the company. The two images featured are of chemical engineers and a chemical engineering plant unit item. Both images are relevant to the text and help the user in gaining a deeper understanding of the company. When "about" is selected on the navigation bar, this section will appear. 
    
   ![About](documents/about-us.png)
   
-  * Further about - The further about section consists of an image with text below it. The reason I've added a further about section is to re-inforce trust with the client by showcasing that this comapny has a many years experience within the industry and therefore can be trusted. In addition to this, by including the company's quality guarantee, it showcases to the client that we take quality VERY seriously. The image is meant to represent a fictional person, partaking in a fictional project for our fictional consultancy.
+  * Further about - The further about section consists of an image with text below it. The reason I've added a further about section is to re-inforce trust with the client by showcasing that this comapny has many years experience within the industry and therefore can be trusted. In addition to this, by including the company's quality guarantee, it showcases to the client that we take quality VERY seriously. The image is meant to represent a fictional person, partaking in a fictional project for our fictional consultancy.
 
   ![Furtherabout](documents/further-about.png)
   
