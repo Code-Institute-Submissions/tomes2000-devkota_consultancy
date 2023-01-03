@@ -122,7 +122,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
       * Hero text
         * Verify that the "click here to get started!" button works and redirects the user to the correct section within the webpage. 
       * Contact Form
-        * Verify that the contact form works and the "submit" button directs the user back to the landing page at the top.
+        * Verify that the contact form works and the "submit" button directs the user back to the landing page at the top of the website.
         * Verify that all necessary field texts are filled in order for submition to work.
         * Verify that the email address field requires a "@" character for the submition to work.
 * ## User Stories Implementation 
