@@ -6,6 +6,8 @@ The aim of the website was to create a chemical engineering design consutlancy c
 
 To visit the website, [click here.](https://tomes2000.github.io/devkota_consultancy/)
 
+![How the website looks on different devices.](documents/am-i-responsive.png)
+
 # Table of Contents
 - [UX and UI](#ux-and-ui)
   * [Project Information](#project-information)
