@@ -185,7 +185,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
           
      7. Press Enter to create your local clone.
      
-           
+           '''
           $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
            
 
@@ -198,4 +198,4 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
         \> remove: Total 10 (delta 1), reused 10 (delta 1)
 
         \> Unpacking objects: 100% (10/10), done.
-   
+   '''
