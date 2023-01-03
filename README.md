@@ -115,7 +115,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
     1. I want to be able to easily navigate the website.
        * A user can use the navbar for easy access navigation to the three sections within the website.
     2. I want to be able to find out if this company has conducted work in the past.
-       * A user can navigate to the about section, which showcases the amount of years the company has been in the industry for, highlighting their past experience in this line of work.
+       * A user can navigate to the about section, which showcases the amount of years the company has been in the industry, highlighting their past experience in this line of work.
     3. I want to see what services are on offer.
        * A user can navigate to the services section, which showcases what services the company can provide.
     4. I want to know how I can be able to find out the cost of said services.
