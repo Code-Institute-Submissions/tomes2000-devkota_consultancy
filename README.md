@@ -131,7 +131,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
     * ## Bug fixes
       * My footer was not covering the full width of the page. I was very confused until I realised that I had forgotten to close a div tag from my form section, which was affecting my footer.
       
-      ![divtag](documents/div-tag.jpeg)
+      ![divtag](documents/div-tag.png)
       
       * Using a bootstrap navigation bar, I noticed that it was not displaying correctly on my webpage.
       
