@@ -158,7 +158,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
        * A user can socially connect with the company with any of the social media links in the footer section.
        
 * ## Deployment
-I created this project using VS Code as I found it easier than using Gitpod. The site was deployed to GitHub pages. In order to deploy to GitHub pages:
+  I created this project using VS Code as I found it easier than using Gitpod. The site was deployed to GitHub pages. In order to deploy to GitHub pages:
   1. On the GitHub repository, select the "Settings" option.
   2. On the left sidebar, select the "Pages" tab option.
   3. Under the GitHub pages, use the branch drop-down menu and select the "deploy from a branch" option.
@@ -176,6 +176,11 @@ I created this project using VS Code as I found it easier than using Gitpod. The
     To clone the repository using HTTPS, under "HTTPS", click the clipboard image.
     To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click the clipboard image.
     To clone a repository using GitHub CLI, click GitHub CLI, then click the clipboard image.
+    4. Open Git Bash (or whatever other terminal you use).
+    5. Change the current working directory to the location where you want the cloned directory.
+    6. Type git clone, and then paste the URL you copied earlier.
+
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
       
    
