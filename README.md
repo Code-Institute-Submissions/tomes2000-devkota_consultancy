@@ -120,7 +120,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
         * Verify that the email link prepares a draft email to send when selected.
         * Verify all social media links work and open in a new tab.
       * Hero text
-        * 
+        * Verify that the "click here to get started!" button works and redirects the user to the correct section within the webpage. 
       * Contact Form
 * ## User Stories Implementation 
     1. I want to be able to easily navigate the website.
