@@ -178,7 +178,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
     To clone a repository using GitHub CLI, click GitHub CLI, then click the clipboard image.
     4. Open Git Bash (or whatever other terminal you use).
     5. Change the current working directory to the location where you want the cloned directory.
-    6. Type ```git clone```, and then paste the URL you copied earlier. '''test to see if this works'''
+    6. Type ```git clone```, and then paste the URL you copied earlier. ```test to see if this works```
 
           
            $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
