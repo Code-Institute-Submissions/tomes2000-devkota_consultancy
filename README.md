@@ -128,7 +128,8 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
     * ## Validation Testing
       * Tested the HTML code with [W3C HTML Validator](https://validator.w3.org/)
       * Tested the CSS code with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-
+    * ## Bug fixes
+      * My footer was not covering the full width of the page. I was very confused until I realised that I had forgotten to close a "<div>" tag
 * ## User Stories Implementation 
     1. I want to be able to easily navigate the website.
        * A user can use the navbar for easy access navigation to the three sections within the website.
