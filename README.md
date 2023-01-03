@@ -6,6 +6,39 @@ The aim of the website was to create a chemical engineering design consutlancy c
 
 To visit the website, [click here.](https://tomes2000.github.io/devkota_consultancy/)
 
+# Table of Contents
+- [UX and UI](#ux-and-ui)
+  * [Project Information](#project-information)
+  * [User Experience](#user-experience)
+  * [User Stories](#user-stories)
+  * [Target user](#target-user)
+  * [Site Owner Goals](#site-owner-goals)
+  * [Design](#design)
+  * [Wireframes](#wireframes)
+  * [Typography](#typography)
+  * [Colour Palette](#colour-palette)
+  * [Favicon](#favicon)
+  * [Imagery](#imagery)
+  * [Logo](#logo)
+  * [Implemented Features](#implemented-features)
+  * [Future Feature Implementation Plan](#future-feature-implementation-plan)
+  * [Technologies Implemented](#technologies-implemented)
+- [Testing](#testing)
+  * [Manual Testing](#manual-testing)
+  * [Validation Testing](#validation-testing)
+  * [Bug fixes](#bug-fixes)
+  * [User Stories Implementation](#user-stories-implementation)
+- [Deployment](#deployment)
+  * [Forking a GitHub Repository](#forking-a-github-repository)
+  * [Cloning a Repository Using The Command Line](#cloning-a-repository-using-the-command-line)
+  * [Credits](#credits)
+  * [Code](#code)
+  * [Imagery](#imagery-1)
+  * [Acknowledgements](#acknowledgements)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # UX and UI
 * ## Project Information
   Having completed a BEng in Chemical Engineering that focuses on the FEED (Front End Engineering Design) aspect of chemical engineering, I have a good understanding on this subject matter and what services are required in order to set up a chemical engineering plant within the UK.
