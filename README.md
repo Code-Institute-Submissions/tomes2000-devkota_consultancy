@@ -141,4 +141,4 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
        
     * ## Validation Testing
       * Tested the HTML code with [W3C HTML Validator](https://validator.w3.org/)
-      * Tested the CSS code with [w3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+      * Tested the CSS code with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
