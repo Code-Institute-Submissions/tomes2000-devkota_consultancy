@@ -110,7 +110,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
  
 * ## Testing
   Using Google Chrome's inbuilt developer tools, I was able to virtually simulate different screen sizes and different phone models. In addition to this, testing was also carried out on a real iPhone 2020 using safari and no problems were found.
- * ## User Stories Implementation; as a user: 
+ * ## User Stories Implementation 
     1. I want to be able to easily navigate the website.
        * A user can use the navbar for easy access navigation to the three sections within the website.
     2. I want to be able to find out if this company has conducted work in the past.
