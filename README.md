@@ -113,14 +113,14 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
  User Stories Implementation
  As a user: 
     1. I want to be able to easily navigate the website.
-       A user can use the navbar for easy access navigation to the three sections within the website.
+      * A user can use the navbar for easy access navigation to the three sections within the website.
     2. I want to be able to find out if this company has conducted work in the past.
        A user can navigate to the about section, which showcases the amount of years the company has been in the industry for, highlighting their past experience in this line of work.
     3. I want to see what services are on offer.
-       A user can navigate to the services section, which showcases what services the company can provide.
+      * A user can navigate to the services section, which showcases what services the company can provide.
     4. I want to know how I can be able to find out the cost of said services.
-       A user can find out the cost of their respective service plan by booking an appointment with the design team, where their needs will be discussed and a payment plan will be produced based on further information provided by the client.
+      * A user can find out the cost of their respective service plan by booking an appointment with the design team, where their needs will be discussed and a payment plan will be produced based on further information provided by the client.
     5. I want a way in which I can contact the company in order to discuss the services in further detail.
-       A user can navigate to the contact section, where they will be greeted by a form. The comapny's email address and phone number are also provided in the footer section.
+      * A user can navigate to the contact section, where they will be greeted by a form. The comapny's email address and phone number are also provided in the footer section.
     6. I want to be able to socially connect with the company and keep up-to-date with their news and stories.
-       A user can socially connect with the company with any of the social media links in the footer section.
+      * A user can socially connect with the company with any of the social media links in the footer section.
