@@ -137,7 +137,9 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
       
       ![bootstrapnavbar](documents/bootstrap-navbar.png)
       
-      * 
+      * Initially the hero image didn't have the "click here to get started!" option. I added it in to invite the user into the website and to also ensure that the user is aware that there's more to the website than just the hero image.
+      * I've added "rel-noopener" to untrusted external links outside my website in order to maintain best practices.
+      * I've added "alt" tags to all my images in order to maintain accessibility and prevent discrimination towards visually-impaired users.
       
      
       
