@@ -169,7 +169,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
   3. Locate the fork option in the top-right hand corner of the repository page.    
   4. You will be asked where you want to fork it to.
 * ## Cloning a Repository Using The Command Line
-   Taken directly from the GitHub website
+   Taken directly from the GitHub website.
    1. On GitHub.com, navigate to the main page of the repository.
    2. Above the list of files, click download code.
    3. Copy the URL for the repository.
