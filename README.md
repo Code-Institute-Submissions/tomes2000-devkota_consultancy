@@ -129,12 +129,20 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
       * Tested the HTML code with [W3C HTML Validator](https://validator.w3.org/)
       * Tested the CSS code with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
     * ## Bug fixes
-      * My footer was not covering the full width of the page. I was very confused until I realised that I had forgotten to close a "<div>" tag
+      * My footer was not covering the full width of the page. I was very confused until I realised that I had forgotten to close a div tag from my form section, which was affecting my footer.
+      
+      ![divtag](documents/div-tag.jpeg)
+      
+      * Using a bootstrap navigation bar, I noticed that it was not displaying correctly on my webpage.
+      
+     
+      
 * ## User Stories Implementation 
     1. I want to be able to easily navigate the website.
        * A user can use the navbar for easy access navigation to the three sections within the website.
     2. I want to be able to find out if this company has conducted work in the past.
        * A user can navigate to the about section, which showcases the amount of years the company has been in the industry, highlighting their past experience in this line of work.
+        ![divtag](documents/div-tag.jpeg)
     3. I want to see what services are on offer.
        * A user can navigate to the services section, which showcases what services the company can provide.
     4. I want to know how I can be able to find out the cost of said services.
