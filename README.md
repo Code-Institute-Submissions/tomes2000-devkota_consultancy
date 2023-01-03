@@ -170,5 +170,12 @@ I created this project using VS Code as I found it easier than using Gitpod. The
   4. You will be asked where you want to fork it to.
 * ## Cloning a Repository Using The Command Line
    Taken directly from the GitHub website
+   1. On GitHub.com, navigate to the main page of the repository.
+   2. Above the list of files, click download code.
+   3. Copy the URL for the repository.
+    To clone the repository using HTTPS, under "HTTPS", click the clipboard image.
+    To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click the clipboard image.
+    To clone a repository using GitHub CLI, click GitHub CLI, then click the clipboard image.
+
       
    
