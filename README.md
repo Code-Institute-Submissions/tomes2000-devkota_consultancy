@@ -87,7 +87,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
    
 * ## Future Feature Implementation Plan
 
-  * An automatic event booking calendar system that gives an notifies the design team of the client's availability. This would save time and money for the company as it makes the process of contacting the client back more streamlined.
+  * An automatic event booking calendar system that notifies the design team of the client's availability. This would save time and money for the company as it makes the process of contacting the client back more streamlined.
   * A hamburger style navigation bar was previously added in, however wouldn't show on the website due to the hero image being in the background; causing it to completely cover the navbar. A workaround to this issue would be useful to make the website more appealing to tablet users, due to the awkward placement of the navigation options. 
   * An interactive menu that displays the services provided by the company than just a plain list.
 
