@@ -64,7 +64,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
    
 * ## Design
      * ## Wireframes
-     To access the wireframe images for, [desktop](documents/wireframe-desktop), [tablet](documents/wireframe-tablet), [phone](documents/wireframe-phone).
+     To access the wireframe images for, [desktop](documents/wireframe-desktop.png), [tablet](documents/wireframe-tablet.png), [mobile](documents/wireframe-phone.png).
      * ## Typography
      In order to make the logo bold, I went with Franklin Gothic Medium, For the landing text, I wanted to make it look opulent therefore I went with the Italiana          font. The bold logo at the top and the finely-put-together landing text compliment each other very well. I kept the body the default font as it ties in well            with my idea of a simple website.
      * ## Colour Palette
