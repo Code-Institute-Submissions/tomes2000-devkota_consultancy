@@ -116,9 +116,12 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
         * Verify that the navigation link has a line below it when it is hovered over to indicate to the user their selection choice.
         * Verify that the navigation links are fully functioning on mobile devices and smaller screen sizes.
       * Footer
-        * Verify 
+        * Verify that the phone number link is dialled when selected.
+        * Verify that the email link prepares a draft email to send when selected.
+        * Verify all social media links work and open in a new tab.
       * Hero text
-      * Form
+        * 
+      * Contact Form
 * ## User Stories Implementation 
     1. I want to be able to easily navigate the website.
        * A user can use the navbar for easy access navigation to the three sections within the website.
