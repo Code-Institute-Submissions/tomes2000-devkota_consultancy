@@ -108,5 +108,5 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
     * [Font Awesome](https://fontawesome.com/)
     * [Pexels](https://www.pexels.com/)
  
-
-
+* ## Testing
+  Using Google Chrome's inbuilt developer tools, I was able to virtually simulate different screen sizes and different phone models. In addition to this, testing was also carried out on a real iPhone 2020 using safari and not problems were found.
