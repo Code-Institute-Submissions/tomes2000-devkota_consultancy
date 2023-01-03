@@ -242,6 +242,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
       * Most of the contact icons used in the footer were taken from [Font Awesome](https://fontawesome.com/).
    * ## Imagery 
       * All imagery is taken from [Pexels](https://www.pexels.com/).
+      * Logo was generated from [myfreelogomaker](https://myfreelogomaker.com/onboarding)
    * ## Acknowledgements
       * A big thank you to Guido Cecilio for his motivation as my mentor.
       * Credit to Maggie Walsh for her README.md which I've used as guide for mine.
