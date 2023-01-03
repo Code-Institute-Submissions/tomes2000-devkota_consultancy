@@ -138,3 +138,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
        * A user can navigate to the contact section, where they will be greeted by a form. The comapny's email address and phone number are also provided in the footer section.
     6. I want to be able to socially connect with the company and keep up-to-date with their news and stories.
        * A user can socially connect with the company with any of the social media links in the footer section.
+       
+    * ## Validation Testing
+      * Tested the HTML code with [W3C HTML Validator](https://validator.w3.org/)
+      * Tested the CSS code with [w3C CSS Validator](https://jigsaw.w3.org/css-validator/)
