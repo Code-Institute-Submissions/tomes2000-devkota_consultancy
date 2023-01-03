@@ -159,8 +159,8 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
        
 * ## Deployment
 I created this project using VS Code as I found it easier than using Gitpod. The site was deployed to GitHub pages. In order to deploy to GitHub pages:
-  1. On the GitHub repository, select the settings option.
-  2. On the left sidebar, select the pages tab option.
+  1. On the GitHub repository, select the "Settings" option.
+  2. On the left sidebar, select the "Pages" tab option.
   3. Under the GitHub pages, use the branch drop-down menu and select the "deploy from a branch" option.
   4. Select the save option and then the page will refresh, showing the link to the live site.
        
