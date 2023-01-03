@@ -106,7 +106,7 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
 
    ![COVID](documents/COVID-banner.png)
    
-  * Services - The services section consists of the comapnies logo with text outlining what services are on offer. Since chemical engineering services vary with the type of project, an exact pricing list isn't used. Instead a pricing report is created by booking an appointment with the design team. When services is selected on the navigation bar, this section will appear.
+  * Services - The services section consists of the comapnies logo with text outlining what services are on offer. Since chemical engineering services vary with the type of project, an exact pricing list isn't used. Instead a pricing report is created by booking an appointment with the design team. When "services" is selected on the navigation bar, this section will appear.
   
    ![Services](documents/services.png)
    
