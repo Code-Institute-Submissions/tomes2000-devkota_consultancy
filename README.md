@@ -125,6 +125,10 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
         * Verify that the contact form works and the "submit" button directs the user back to the landing page at the top of the website.
         * Verify that all necessary field texts are filled in order for submition to work.
         * Verify that the email address field requires a "@" character for the submition to work.
+    * ## Validation Testing
+      * Tested the HTML code with [W3C HTML Validator](https://validator.w3.org/)
+      * Tested the CSS code with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
 * ## User Stories Implementation 
     1. I want to be able to easily navigate the website.
        * A user can use the navbar for easy access navigation to the three sections within the website.
@@ -139,6 +143,4 @@ To visit the website, [click here.](https://tomes2000.github.io/devkota_consulta
     6. I want to be able to socially connect with the company and keep up-to-date with their news and stories.
        * A user can socially connect with the company with any of the social media links in the footer section.
        
-    * ## Validation Testing
-      * Tested the HTML code with [W3C HTML Validator](https://validator.w3.org/)
-      * Tested the CSS code with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+   
